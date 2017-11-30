@@ -1,0 +1,15 @@
+ Volume in drive C is PC COE
+ Volume Serial Number is 8A9B-FB24
+
+ Directory of c:\myproject
+
+12/01/2017  12:53 AM    <DIR>          .
+12/01/2017  12:53 AM    <DIR>          ..
+12/01/2017  12:36 AM    <DIR>          anotherfolder
+12/01/2017  12:04 AM               383 index.html
+12/01/2017  12:53 AM                 0 newbranchfile.txt
+12/01/2017  12:38 AM                 0 srini.txt
+12/01/2017  12:03 AM               360 test.txt
+12/01/2017  12:34 AM    <DIR>          WebApps
+               4 File(s)            743 bytes
+               4 Dir(s)  387,414,921,216 bytes free
